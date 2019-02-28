@@ -2,9 +2,9 @@ const header=`
     <nav class="navbar navbar-light bg-light navbar-expand-lg">
   		<a class="navbar-brand " href="/">Registradora app</a>
 		<div class='navbar-nav ml-auto'>
-			<a class='navbar-item ' href='maquetacion-registradoraApp/resumen.html'>Resumen<a/> 
-			<a class='navbar-item ml-4' href='maquetacion-registradoraApp/activo.html'>Activo<a/> 
-			<a class='navbar-item ml-4' href='maquetacion-registradoraApp/pasivo.html'>Pasivo<a/>
+			<a class='navbar-item 'href='https://rat4.github.io/maquetacion-registradoraApp/resumen.html'>Resumen<a/> 
+			<a class='navbar-item ml-4'https://rat4.github.io/maquetacion-registradoraApp/activo.html'>Activo<a/> 
+			<a class='navbar-item ml-4'https://rat4.github.io/maquetacion-registradoraApp/pasivo.html'>Pasivo<a/>
 
 			<a class='navbar-item ml-4 mr-5' href='#'>Informes<a/> 
 			<a class='navbar-item ml-5 mr-5' href='#'>Config<a/> 
